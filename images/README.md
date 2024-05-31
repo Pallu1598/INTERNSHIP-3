@@ -10,5 +10,5 @@ A simple GUI Calculator using Tkinter in Python.
 
 >If any syntax error encountered in the entry box then a pop up message will be displayed saying that syntax error
 <p align='center'>
-  <img src= align='center'/>
+  <img src='https://github.com/Pallu1598/INTERNSHIP-3/blob/c7892b9279fe642cda266fd5f9a7187d90fff5c7/ErrorMsg.png'align='center'/>
 </p>
